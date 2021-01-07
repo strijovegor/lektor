@@ -1,7 +1,7 @@
-title: привет кстати
+title:  Привет
 ---
 author: да
 ---
-body: это мой первый пост а что <br><img src="https://github.com/strijovegor/lektor/blob/main/lektor-test/content/blog/hello/kuku.jpg" width=200></img>
+body: пост <br><img src="https://github.com/strijovegor/lektor/blob/main/lektor-test/content/blog/hello/kuku.jpg" width=200></img>
 ---
 pub_date: 1337-01-01
